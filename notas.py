@@ -1,6 +1,6 @@
 alumnos = [
     {
-        "nombre": "Ana",
+        "nombre": "Lety",
         "notas": [8.0,7.5,8.5]
     },
     {
